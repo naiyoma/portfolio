@@ -33,6 +33,7 @@ html {
 body {
   background-color: black;
 }
+
 section {
   padding: 100px 0;
 }
@@ -193,7 +194,7 @@ section .title::after {
 /* home section styling */
 .home {
   display: flex;
-  background: url("images/dark.jpeg") no-repeat center;
+  background: url("dark.jpeg") no-repeat center;
   background-color: black;
   height: 100vh;
   color: black;
@@ -214,6 +215,7 @@ section .title::after {
 #skills {
   color: #d4af37;
 }
+
 #services {
   color: #d4af37;
 }
@@ -566,9 +568,11 @@ section .title::after {
   text-align: center;
   align-items: center;
 }
+
 .contact-text {
   margin-left: 35%;
 }
+
 .contact .contact-content .left .icons {
   margin: 10px 0;
   align-items: center;
